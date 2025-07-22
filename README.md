@@ -1,4 +1,4 @@
-Olá. Primeiramente gostaria de agradecer a oportunidade de participar da entevista. 
+Olá. Primeiramente gostaria de agradecer a oportunidade de participar da entrevista. 
 
 Tive certa dificuldade para fazer o projeto pois não conhecia boa parte das tecnologias e precisei apred~e-las enquantio criava o projeto.
 
